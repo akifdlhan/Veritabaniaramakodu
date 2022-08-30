@@ -1,0 +1,2 @@
+# Veritabaniaramakodu
+eleğoş
