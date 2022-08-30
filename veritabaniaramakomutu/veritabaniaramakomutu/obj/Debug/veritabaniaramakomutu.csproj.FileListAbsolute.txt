@@ -1,0 +1,11 @@
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\veritabaniaramakomutu\veritabaniaramakomutu\bin\Debug\veritabaniaramakomutu.exe.config
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\veritabaniaramakomutu\veritabaniaramakomutu\bin\Debug\veritabaniaramakomutu.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\veritabaniaramakomutu\veritabaniaramakomutu\bin\Debug\veritabaniaramakomutu.pdb
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\veritabaniaramakomutu\veritabaniaramakomutu\obj\Debug\veritabaniaramakomutu.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\veritabaniaramakomutu\veritabaniaramakomutu\obj\Debug\veritabaniaramakomutu.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\veritabaniaramakomutu\veritabaniaramakomutu\obj\Debug\veritabaniaramakomutu.Form1.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\veritabaniaramakomutu\veritabaniaramakomutu\obj\Debug\veritabaniaramakomutu.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\veritabaniaramakomutu\veritabaniaramakomutu\obj\Debug\veritabaniaramakomutu.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\veritabaniaramakomutu\veritabaniaramakomutu\obj\Debug\veritabaniaramakomutu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\veritabaniaramakomutu\veritabaniaramakomutu\obj\Debug\veritabaniaramakomutu.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\veritabaniaramakomutu\veritabaniaramakomutu\obj\Debug\veritabaniaramakomutu.pdb
